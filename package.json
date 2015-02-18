@@ -21,10 +21,12 @@
   "bugs": {
     "url": "https://github.com/DavidSouther/grunt-recurse/issues"
   },
+  "dependencies": {
+    "load-grunt-tasks": "~1.0.0"
+  },
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-copy": "~0.4.1",
-    "grunt-release": "~0.6.0",
-    "load-grunt-tasks": "~1.0.0"
+    "grunt-release": "~0.6.0"
   }
 }
